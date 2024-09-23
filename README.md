@@ -4,7 +4,7 @@ Meu nome é Luis henrique
 
 Sou aluno no Miguel Dias
 
-Utilizo em aula a plataforma alura
+Utilizo em aula a plataforma alura [alura](https://www.alura.com.br)
 
 ### você pode entrar em contato comigo
 
